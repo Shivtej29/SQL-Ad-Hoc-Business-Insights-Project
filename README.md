@@ -68,7 +68,7 @@ To demonstrate SQL proficiency through solving realistic, business-relevant ad-h
 ---
 
 ## 📎 Resources
-- [SQL Scripts](./SQL_Solutions/)
+- [SQL Scripts](https://github.com/Shivtej29/SQL-Ad-Hoc-Business-Insights-Project/blob/main/atliq_hardware_queries.sql)
 
 ---
 
