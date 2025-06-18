@@ -69,7 +69,7 @@ To demonstrate SQL proficiency through solving realistic, business-relevant ad-h
 
 ## 📎 Resources
 - [SQL Scripts](https://github.com/Shivtej29/SQL-Ad-Hoc-Business-Insights-Project/blob/main/atliq_hardware_queries.sql)
-
+- [LinkedIn](https://www.linkedin.com/posts/shivtejmuthyala_codebasicsvirtualinternship-codebasics-sql-activity-7341028306776928259-1kX5?utm_source=share&utm_medium=member_desktop&rcm=ACoAADwgsNcBamGGROF_RdoVTGvbWkeBePx0lBY)
 ---
 
 ## 📬 Contact
